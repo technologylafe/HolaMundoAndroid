@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">salutmonde</string>
+    <string name="comentario">Ceci est ma première application</string>
+    <string name="titulo_app">salut monde</string>
+    <string name="msj_app">Bienvenue</string>
+    <string name="in_app">Entrer</string>
+</resources>

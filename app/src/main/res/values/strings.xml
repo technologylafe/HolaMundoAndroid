@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="comentario">Esta es mi primera app</string>
+    <string name="titulo_app">Hola mundo</string>
+    <string name="msj_app">Bienvenido</string>
+    <string name="in_app">Entrar</string>
+</resources>
